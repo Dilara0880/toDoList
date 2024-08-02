@@ -33,7 +33,7 @@ ToDo List Application - это веб-приложение, позволяюще
 1. **Клонируйте репозиторий**:
 
    ```
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/Dilara0880/toDoList
    cd todo-list-app 
    ```
 
