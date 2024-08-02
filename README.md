@@ -34,7 +34,7 @@ ToDo List Application - это веб-приложение, позволяюще
 
    ```
    git clone https://github.com/Dilara0880/toDoList
-   cd todo-list-app 
+   cd toDoList
    ```
 
 2. **Создайте и активируйте виртуальное окружение**:
